@@ -83,3 +83,167 @@ ENet [https://arxiv.org/pdf/1606.02147.pdf] [2016]
   --https://github.com/fregu856/segmentation [Tensorflow]
   --https://github.com/kwotsin/TensorFlow-ENet [Tensorflow]
   --https://github.com/davidtvs/PyTorch-ENet [PyTorch]
+  
+LinkNet [https://arxiv.org/pdf/1707.03718.pdf] [2017]
+  --https://github.com/e-lab/LinkNet [Torch]
+  --https://github.com/qubvel/segmentation_models [Keras]
+
+DenseNet [https://arxiv.org/pdf/1608.06993.pdf] [2018]
+  --https://github.com/flyyufelix/DenseNet-Keras [Keras]
+
+Tiramisu [https://arxiv.org/pdf/1611.09326.pdf] [2017]
+  --https://github.com/0bserver07/One-Hundred-Layers-Tiramisu [Keras]
+  --https://github.com/SimJeg/FC-DenseNet [Lasagne]
+
+DilatedNet [https://arxiv.org/pdf/1511.07122.pdf] [2016]
+  --https://github.com/nicolov/segmentation_keras [Keras]
+  --https://github.com/fyu/dilation [Caffe]
+  --https://github.com/fyu/drn#semantic-image-segmentataion [PyTorch]
+  --https://github.com/hangzhaomit/semantic-segmentation-pytorch [PyTorch]
+
+PixelNet [https://arxiv.org/pdf/1609.06694.pdf] [2016]
+  --https://github.com/aayushbansal/PixelNet [Caffe]
+
+ICNet [https://arxiv.org/pdf/1704.08545.pdf] [2017]
+  --https://github.com/hszhao/ICNet [Caffe]
+  --https://github.com/ai-tor/Keras-ICNet [Keras]
+  --https://github.com/hellochick/ICNet-tensorflow [Tensorflow]
+  --https://github.com/oandrienko/fast-semantic-segmentation [Tensorflow]
+
+ERFNet [http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17iv.pdf] [?]
+  --https://github.com/Eromera/erfnet [Torch]
+  --https://github.com/Eromera/erfnet_pytorch [PyTorch]
+
+RefineNet [https://arxiv.org/pdf/1611.06612.pdf] [2016]
+  --https://github.com/guosheng/refinenet [MatConvNet]
+
+PSPNet [https://arxiv.org/pdf/1612.01105.pdf,https://hszhao.github.io/projects/pspnet/] [2017]
+  --https://github.com/hszhao/PSPNet [Caffe]
+  --https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
+  --https://github.com/mitmul/chainer-pspnet [Chainer]
+  --https://github.com/Vladkryvoruchko/PSPNet-Keras-tensorflow [Keras/Tensorflow]
+  --https://github.com/pudae/tensorflow-pspnet [Tensorflow]
+  --https://github.com/hellochick/PSPNet-tensorflow [Tensorflow]
+  --https://github.com/hellochick/semantic-segmentation-tensorflow [Tensorflow]
+  --https://github.com/qubvel/segmentation_models [Keras]
+  --https://github.com/oandrienko/fast-semantic-segmentation [Tensorflow]
+  --https://github.com/speedinghzl/pytorch-segmentation-toolbox [PyTorch]
+  --https://github.com/youansheng/torchcv [PyTorch]
+
+DeconvNet [https://arxiv.org/pdf/1505.04366.pdf] [2015]
+  --http://cvlab.postech.ac.kr/research/deconvnet/ [Caffe]
+  --https://github.com/HyeonwooNoh/DeconvNet [Caffe]
+  --https://github.com/fabianbormann/Tensorflow-DeconvNet-Segmentation [Tensorflow]
+
+FRRN [https://arxiv.org/pdf/1611.08323.pdf] [2016]
+  --https://github.com/TobyPDE/FRRN [Lasagne]
+
+GCN [https://arxiv.org/pdf/1703.02719.pdf] [2017]
+  --https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
+  --https://github.com/ycszen/pytorch-seg [PyTorch]
+
+LRR [https://arxiv.org/pdf/1605.02264.pdf] [2016]
+  --https://github.com/golnazghiasi/LRR [Matconvnet]
+
+DUC, HDC [https://arxiv.org/pdf/1702.08502.pdf] [2017]
+  --https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
+  --https://github.com/ycszen/pytorch-seg [PyTorch]
+
+MultiNet [https://arxiv.org/pdf/1612.07695.pdf] [2016]
+  --https://github.com/MarvinTeichmann/MultiNet
+  --https://github.com/MarvinTeichmann/KittiSeg
+
+Segaware [https://arxiv.org/pdf/1708.04607.pdf] [2017]
+  --https://github.com/aharley/segaware [Caffe]
+
+Semantic Segmentation using Adversarial Networks [https://arxiv.org/pdf/1611.08408.pdf] [2016]
+  --https://github.com/oyam/Semantic-Segmentation-using-Adversarial-Networks [Chainer]
+
+PixelDCN [https://arxiv.org/pdf/1705.06820.pdf] [2017]
+  --https://github.com/HongyangGao/PixelDCN [Tensorflow]
+
+ShuffleSeg [https://arxiv.org/pdf/1803.03816.pdf] [2018]
+  --https://github.com/MSiam/TFSegmentation [TensorFlow]
+
+AdaptSegNet [https://arxiv.org/pdf/1802.10349.pdf] [2018]
+  --https://github.com/wasidennis/AdaptSegNet [PyTorch]
+
+TuSimple-DUC [https://arxiv.org/pdf/1702.08502.pdf] [2018]
+  --https://github.com/TuSimple/TuSimple-DUC [MxNet]
+
+FPN [http://presentations.cocodataset.org/COCO17-Stuff-FAIR.pdf] [2017]
+  --https://github.com/qubvel/segmentation_models [Keras]
+
+R2U-Net [https://arxiv.org/ftp/arxiv/papers/1802/1802.06955.pdf] [2018]
+  --https://github.com/LeeJunHyun/Image_Segmentation#r2u-net [PyTorch]
+
+Attention U-Net [https://arxiv.org/pdf/1804.03999.pdf] [2018]
+  --https://github.com/LeeJunHyun/Image_Segmentation#attention-u-net [PyTorch]
+  --https://github.com/ozan-oktay/Attention-Gated-Networks [PyTorch]
+
+DANet [https://arxiv.org/pdf/1809.02983.pdf] [2018]
+  --https://github.com/junfu1115/DANet [PyTorch]
+
+ShelfNet [https://arxiv.org/pdf/1811.11254.pdf] [2018]
+  --https://github.com/juntang-zhuang/ShelfNet [PyTorch]
+
+LadderNet [https://arxiv.org/pdf/1810.07810.pdf] [2018]
+  --https://github.com/juntang-zhuang/LadderNet [PyTorch]
+
+BiSeNet [https://arxiv.org/pdf/1808.00897.pdf] [2018]
+  --https://github.com/ooooverflow/BiSeNet [PyTorch]
+  --https://github.com/ycszen/TorchSeg [PyTorch]
+
+ESPNet [https://arxiv.org/pdf/1803.06815.pdf] [2018]
+  --https://github.com/sacmehta/ESPNet [PyTorch]
+
+DFN [https://arxiv.org/pdf/1804.09337.pdf] [2018]
+  --https://github.com/ycszen/TorchSeg [PyTorch]
+
+CCNet [https://arxiv.org/pdf/1811.11721.pdf] [2018]
+  --https://github.com/speedinghzl/CCNet [PyTorch]
+DenseASPP [http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf] [2018]
+  --https://github.com/youansheng/torchcv [PyTorch]
+
+
+实例分割：
+
+FCIS [https://arxiv.org/pdf/1611.07709.pdf]
+  --https://github.com/msracver/FCIS [MxNet]
+
+MNC [https://arxiv.org/pdf/1512.04412.pdf]
+  --https://github.com/daijifeng001/MNC [Caffe]
+
+DeepMask [https://arxiv.org/pdf/1506.06204.pdf]
+  --https://github.com/facebookresearch/deepmask [Torch]
+
+SharpMask [https://arxiv.org/pdf/1603.08695.pdf]
+  --https://github.com/facebookresearch/deepmask [Torch]
+
+Mask-RCNN [https://arxiv.org/pdf/1703.06870.pdf]
+  --https://github.com/CharlesShang/FastMaskRCNN [Tensorflow]
+  --https://github.com/jasjeetIM/Mask-RCNN [Caffe]
+  --https://github.com/TuSimple/mx-maskrcnn [MxNet]
+  --https://github.com/matterport/Mask_RCNN [Keras]
+  --https://github.com/facebookresearch/maskrcnn-benchmark [PyTorch]
+  --https://github.com/open-mmlab/mmdetection [PyTorch]
+
+RIS [https://arxiv.org/pdf/1511.08250.pdf]
+  --https://github.com/bernard24/RIS [Torch]
+
+FastMask [https://arxiv.org/pdf/1612.08843.pdf]
+  --https://github.com/voidrank/FastMask [Caffe]
+
+BlitzNet [https://arxiv.org/pdf/1708.02813.pdf]
+  --https://github.com/dvornikita/blitznet [Tensorflow]
+
+PANet [https://arxiv.org/pdf/1803.01534.pdf] [2018]
+  --https://github.com/ShuLiu1993/PANet [Caffe]
+
+TernausNetV2 [https://arxiv.org/pdf/1806.00844.pdf] [2018]
+  --https://github.com/ternaus/TernausNetV2 [PyTorch]
+
+MS R-CNN [https://arxiv.org/pdf/1903.00241.pdf] [2019]
+  --https://github.com/zjhuang22/maskscoring_rcnn [PyTorch]
+
+
