@@ -247,3 +247,7 @@ MS R-CNN [https://arxiv.org/pdf/1903.00241.pdf] [2019]
   --https://github.com/zjhuang22/maskscoring_rcnn [PyTorch]
 
 
+视频分割：
+
+  --https://github.com/shelhamer/clockwork-fcn
+  --https://github.com/JingchunCheng/Seg-with-SPN
