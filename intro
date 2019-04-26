@@ -1,0 +1,85 @@
+语义分割
+
+主要有：U-Net、SegNet、DeepLab系列、FCN、ENet、ICNet、ShelfNet、BiseNet、DFN和CCNet等网络
+
+U-Net:
+  --https://github.com/zhixuhao/unet [Keras]GitHub stars
+  --https://github.com/jocicmarko/ultrasound-nerve-segmentation [Keras]GitHub stars
+  --https://github.com/EdwardTyantov/ultrasound-nerve-segmentation [Keras]GitHub stars
+  --https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model [Keras]GitHub stars
+  --https://github.com/yihui-he/u-net [Keras]GitHub stars
+  --https://github.com/jakeret/tf_unet [Tensorflow]GitHub stars
+  --https://github.com/divamgupta/image-segmentation-keras [Keras]GitHub stars
+  --https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]GitHub stars
+  --https://github.com/akirasosa/mobile-semantic-segmentation [Keras]GitHub stars
+  --https://github.com/orobix/retina-unet [Keras]GitHub stars
+  --https://github.com/qureai/ultrasound-nerve-segmentation-using-torchnet [Torch]GitHub stars
+  --https://github.com/ternaus/TernausNet [PyTorch]GitHub stars
+  --https://github.com/qubvel/segmentation_models [Keras]GitHub stars
+  --https://github.com/LeeJunHyun/Image_Segmentation#u-net [PyTorch]GitHub stars
+  --https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/ [Caffe + Matlab]
+  
+SegNet [https://arxiv.org/pdf/1511.00561.pdf] [2016]
+  --https://github.com/alexgkendall/caffe-segnet [Caffe]
+  --https://github.com/developmentseed/caffe/tree/segnet-multi-gpu [Caffe]
+  --https://github.com/preddy5/segnet [Keras]
+  --https://github.com/imlab-uiip/keras-segnet [Keras]
+  --https://github.com/andreaazzini/segnet [Tensorflow]
+  --https://github.com/fedor-chervinskii/segnet-torch [Torch]
+  --https://github.com/0bserver07/Keras-SegNet-Basic [Keras]
+  --https://github.com/tkuanlun350/Tensorflow-SegNet [Tensorflow]
+  --https://github.com/divamgupta/image-segmentation-keras [Keras]
+  --https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
+  --https://github.com/chainer/chainercv/tree/master/examples/segnet [Chainer]
+  --https://github.com/ykamikawa/keras-SegNet [Keras]
+  --https://github.com/ykamikawa/tf-keras-SegNet [Keras]
+  
+DeepLab [https://arxiv.org/pdf/1606.00915.pdf] [2017]
+  --https://bitbucket.org/deeplab/deeplab-public/ [Caffe]
+  --https://github.com/cdmh/deeplab-public [Caffe]
+  --https://bitbucket.org/aquariusjay/deeplab-public-ver2 [Caffe]
+  --https://github.com/TheLegendAli/DeepLab-Context [Caffe]
+  --https://github.com/msracver/Deformable-ConvNets/tree/master/deeplab [MXNet]
+  --https://github.com/DrSleep/tensorflow-deeplab-resnet [Tensorflow]
+  --https://github.com/muyang0320/tensorflow-deeplab-resnet-crf [TensorFlow]
+  --https://github.com/isht7/pytorch-deeplab-resnet [PyTorch]
+  --https://github.com/bermanmaxim/jaccardSegment [PyTorch]
+  --https://github.com/martinkersner/train-DeepLab [Caffe]
+  --https://github.com/chenxi116/TF-deeplab [Tensorflow]
+  --https://github.com/bonlime/keras-deeplab-v3-plus [Keras]
+  --https://github.com/tensorflow/models/tree/master/research/deeplab [Tensorflow]
+  --https://github.com/speedinghzl/pytorch-segmentation-toolbox [PyTorch]
+  --https://github.com/kazuto1011/deeplab-pytorch [PyTorch]
+  --https://github.com/youansheng/torchcv [PyTorch]
+  
+FCN [https://arxiv.org/pdf/1605.06211.pdf] [2016]
+  --https://github.com/vlfeat/matconvnet-fcn [MatConvNet]
+  --https://github.com/shelhamer/fcn.berkeleyvision.org [Caffe]
+  --https://github.com/MarvinTeichmann/tensorflow-fcn [Tensorflow]
+  --https://github.com/aurora95/Keras-FCN [Keras]
+  --https://github.com/mzaradzki/neuralnets/tree/master/vgg_segmentation_keras [Keras]
+  --https://github.com/k3nt0w/FCN_via_keras [Keras]
+  --https://github.com/shekkizh/FCN.tensorflow [Tensorflow]
+  --https://github.com/seewalker/tf-pixelwise [Tensorflow]
+  --https://github.com/divamgupta/image-segmentation-keras [Keras]
+  --https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
+  --https://github.com/wkentaro/pytorch-fcn [PyTorch]
+  --https://github.com/wkentaro/fcn [Chainer]
+  --https://github.com/apache/incubator-mxnet/tree/master/example/fcn-xs [MxNet]
+  --https://github.com/muyang0320/tf-fcn [Tensorflow]
+  --https://github.com/ycszen/pytorch-seg [PyTorch]
+  --https://github.com/Kaixhin/FCN-semantic-segmentation [PyTorch]
+  --https://github.com/petrama/VGGSegmentation [Tensorflow]
+  --https://github.com/simonguist/testing-fcn-for-cityscapes [Caffe]
+  --https://github.com/hellochick/semantic-segmentation-tensorflow [Tensorflow]
+  --https://github.com/pierluigiferrari/fcn8s_tensorflow [Tensorflow]
+  --https://github.com/theduynguyen/Keras-FCN [Keras]
+  --https://github.com/JihongJu/keras-fcn [Keras]
+
+ENet [https://arxiv.org/pdf/1606.02147.pdf] [2016]
+  --https://github.com/TimoSaemann/ENet [Caffe]
+  --https://github.com/e-lab/ENet-training [Torch]
+  --https://github.com/PavlosMelissinos/enet-keras [Keras]
+  --https://github.com/fregu856/segmentation [Tensorflow]
+  --https://github.com/kwotsin/TensorFlow-ENet [Tensorflow]
+  --https://github.com/davidtvs/PyTorch-ENet [PyTorch]
